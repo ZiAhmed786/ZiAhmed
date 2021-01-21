@@ -70,7 +70,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@Ziaxdev](https://twitter.com/ziaxdev) - ziaxdev@gmail.com
+Syed Ziaudddin - [@Ziaxdev](https://twitter.com/ziaxdev) - ziaxdev@gmail.com
 
 Project Link: [https://github.com/ZiaCodes/ZiAhmed](https://github.com/ZiaCodes/ZiAhmed)
 
@@ -83,7 +83,6 @@ Project Link: [https://github.com/ZiaCodes/ZiAhmed](https://github.com/ZiaCodes/
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
 [contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
