@@ -22,7 +22,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![alt-text](https://github.com/ZiaCodes/ZiAhmed/tree/master/img/showcase.gif)
+![alt-text](https://github.com/ZiaCodes/ZiAhmed/blob/master/img/showcase.gif)
 
 Here's why you should use template to miniize your time.
 * Your time should be focused on creating something amazing. A project that solves a problem and helps others
