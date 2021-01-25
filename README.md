@@ -21,7 +21,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
+ <p align="center">
 ![alt-text](https://github.com/ZiaCodes/ZiAhmed/blob/master/img/showcase.gif)
 
 Here's why you should use template to miniize your time.
